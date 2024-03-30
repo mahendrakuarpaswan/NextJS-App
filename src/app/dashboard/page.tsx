@@ -1,3 +1,10 @@
+
+import Graph from './data'
+
 export default function Page() {
-    return <p>Dashboard Page</p>;
+    return <div>
+        
+                  <Graph/>
+            
+           </div>;
   }
